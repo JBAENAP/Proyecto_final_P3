@@ -1,0 +1,5 @@
+AL01|Albergue Comuna 3|comuna_3|200|143|1094001001|2026-10-28T21:32:37
+AL02|Albergue Comuna 5|comuna_5|250|232|1094002002|2026-10-28T21:32:37
+AL03|Albergue Comuna 1|comuna_1|120|64||2026-10-28T21:32:37
+AL04|Albergue Comuna 7|comuna_7|150|150||2026-10-28T21:32:37
+AL05|Albergue El Caimo|el_caimo|60|18||2026-10-28T21:32:37

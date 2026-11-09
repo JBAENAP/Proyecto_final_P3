@@ -1,0 +1,5 @@
+PET001|perdida|perro|Max|collar rojo, cojea de la pata trasera|cafe|grande|comuna_3|3101234567|activa||pedro|2026-10-28T21:32:38
+PET002|encontrada|perro||collar rojo, cojea|cafe oscuro|grande|comuna_3_sur|3157654321|activa||andres|2026-10-28T21:32:38
+PET003|perdida|gato|Misu|ojos azules, muy asustadizo|blanco|pequeno|comuna_5|3209876543|activa||pedro|2026-10-28T21:32:38
+PET004|encontrada|gato||ojos azules|blanco y gris|pequeno|comuna_4|3112223344|activa||andres|2026-10-28T21:32:38
+PET005|perdida|perro|Rocky|sin collar, mancha blanca en el pecho|negro|mediano|el_caimo|3005556677|activa||laura|2026-10-28T21:32:38

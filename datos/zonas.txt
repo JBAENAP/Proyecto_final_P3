@@ -1,0 +1,47 @@
+comuna_1|Comuna 1 - Centenario|zona|alto|150||
+comuna_1_norte|Centenario Norte|sector|alto|1300||comuna_1
+acopio_c1|Centro de acopio Comuna 1|punto||0|acopio|comuna_1_norte
+comuna_1_sur|Centenario Sur|sector|medio|950||comuna_1
+salud_c1|Puesto de salud Comuna 1|punto||0|salud|comuna_1_sur
+comuna_2|Comuna 2 - Rufino José Cuervo|zona|medio|100||
+comuna_2_norte|Rufino J. Cuervo Norte|sector|medio|900||comuna_2
+acopio_c2|Centro de acopio Comuna 2|punto||0|acopio|comuna_2_norte
+comuna_2_sur|Rufino J. Cuervo Sur|sector|bajo|800||comuna_2
+comuna_3|Comuna 3 - Alfonso López|zona|critico|220||
+comuna_3_norte|Alfonso López Norte|sector|critico|1700||comuna_3
+acopio_c3|Centro de acopio Comuna 3|punto||0|acopio|comuna_3_norte
+comuna_3_sur|Alfonso López Sur|sector|alto|1200||comuna_3
+atencion_c3|Punto de atención Comuna 3|punto||0|atencion|comuna_3_sur
+comuna_4|Comuna 4 - Francisco de Paula Santander|zona|alto|180||
+comuna_4_norte|Fco. de Paula Santander Norte|sector|alto|1400||comuna_4
+acopio_c4|Centro de acopio Comuna 4|punto||0|acopio|comuna_4_norte
+comuna_4_sur|Fco. de Paula Santander Sur|sector|alto|1100||comuna_4
+comuna_5|Comuna 5 - El Bosque|zona|critico|250||
+comuna_5_norte|El Bosque Norte|sector|critico|1800||comuna_5
+acopio_c5|Centro de acopio Comuna 5|punto||0|acopio|comuna_5_norte
+comuna_5_sur|El Bosque Sur|sector|critico|1350||comuna_5
+salud_c5|Puesto de salud Comuna 5|punto||0|salud|comuna_5_sur
+comuna_6|Comuna 6 - San José|zona|medio|90||
+comuna_6_norte|San José Norte|sector|medio|750||comuna_6
+atencion_c6|Punto de atención Comuna 6|punto||0|atencion|comuna_6_norte
+comuna_6_sur|San José Sur|sector|medio|660||comuna_6
+comuna_7|Comuna 7 - Cafetero|zona|alto|160||
+comuna_7_norte|Cafetero Norte|sector|alto|1200||comuna_7
+acopio_c7|Centro de acopio Comuna 7|punto||0|acopio|comuna_7_norte
+comuna_7_sur|Cafetero Sur|sector|medio|840||comuna_7
+comuna_8|Comuna 8 - Libertadores|zona|medio|80||
+comuna_8_norte|Libertadores Norte|sector|medio|700||comuna_8
+comuna_8_sur|Libertadores Sur|sector|bajo|520||comuna_8
+atencion_c8|Punto de atención Comuna 8|punto||0|atencion|comuna_8_sur
+comuna_9|Comuna 9 - Fundadores|zona|bajo|40||
+comuna_9_norte|Fundadores Norte|sector|bajo|480||comuna_9
+acopio_c9|Centro de acopio Comuna 9|punto||0|acopio|comuna_9_norte
+comuna_9_sur|Fundadores Sur|sector|bajo|380||comuna_9
+comuna_10|Comuna 10 - Quimbaya|zona|bajo|60||
+comuna_10_norte|Quimbaya Norte|sector|bajo|500||comuna_10
+comuna_10_sur|Quimbaya Sur|sector|medio|540||comuna_10
+atencion_c10|Punto de atención Comuna 10|punto||0|atencion|comuna_10_sur
+el_caimo|Corregimiento El Caimo|zona|alto|30||
+caimo_centro|Centro poblado El Caimo|sector|alto|420||el_caimo
+acopio_caimo|Centro de acopio El Caimo|punto||0|acopio|caimo_centro
+caimo_veredas|Veredas La India y Puerto Espejo|sector|medio|200||el_caimo

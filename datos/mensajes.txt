@@ -1,0 +1,4 @@
+M001|2026-10-28T21:32:38|pedro|1094001002|Juanito, tu mamá está en el Albergue Comuna 3. Te estamos buscando.|pendiente
+M002|2026-10-28T21:32:38|andres|familia:giraldo|Luz Marina está bien, quedó en el Albergue Comuna 5.|entregado
+M003|2026-10-28T21:32:38|pedro|1094002001|Don Carlos, comuníquese con su familia en el Albergue Comuna 5.|pendiente
+M004|2026-10-28T21:32:38|laura|familia:henao|Valentina ya está con sus tíos en la Comuna 7.|entregado

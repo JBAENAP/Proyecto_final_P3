@@ -1,0 +1,15 @@
+2026-10-28T21:32:37|registro|R001|2000|2000|alta|laura
+2026-10-28T21:32:37|registro|R002|1500|1500|alta|laura
+2026-10-28T21:32:37|registro|R003|400|400|alta|laura
+2026-10-28T21:32:37|registro|R004|800|800|alta|laura
+2026-10-28T21:32:37|registro|R005|8|8|alta|laura
+2026-10-28T21:32:37|registro|R006|300|300|alta|laura
+2026-10-28T21:32:37|registro|R007|6|6|alta|laura
+2026-10-28T21:32:37|registro|R008|120|120|alta|laura
+2026-10-28T21:32:37|registro|R009|500|500|alta|laura
+2026-10-28T21:32:37|registro|R010|60|60|alta|laura
+2026-10-28T21:32:37|registro|R011|200|200|alta|laura
+2026-10-28T21:32:37|registro|R012|5|5|alta|laura
+2026-10-28T21:32:37|registro|R013|90|90|alta|laura
+2026-10-28T21:32:37|asignacion|R001|200|1800|N001|laura
+2026-10-28T21:32:38|asignacion|R008|25|95|N006|laura
