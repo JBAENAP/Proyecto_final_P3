@@ -1,0 +1,9 @@
+N001|agua|Barrio sin servicio de acueducto|300|200|comuna_3_norte|critica|pedro|asignada|zona|comuna_3_norte|2026-10-28T21:32:37|R001:200
+N002|medicamentos|Adultos mayores con enfermedades crónicas|40|0|comuna_5|critica|andres|pendiente|albergue|AL02|2026-10-28T21:32:37|
+N003|rescate|Posibles personas atrapadas en edificio colapsado|1|0|comuna_7_norte|critica|laura|pendiente|zona|comuna_7_norte|2026-10-28T21:32:37|
+N004|alimentos|Raciones para tres días|150|0|AL02|alta|andres|pendiente|albergue|AL02|2026-10-28T21:32:37|
+N005|refugio|Familias con viviendas colapsadas|80|0|comuna_4|alta|pedro|pendiente|zona|comuna_4|2026-10-28T21:32:37|
+N006|primeros_auxilios|Heridos leves en el sector Centenario|25|25|salud_c1|alta|laura|atendida|zona|salud_c1|2026-10-28T21:32:37|R008:25
+N007|alimentos|Familia Osorio|60|0|comuna_3_sur|media|pedro|pendiente|familia|osorio|2026-10-28T21:32:38|
+N008|transporte|Traslado de heridos desde las veredas|3|0|el_caimo|media|laura|pendiente|zona|el_caimo|2026-10-28T21:32:38|
+N009|agua|Reserva para el punto de atención|50|0|comuna_9|baja|andres|cancelada|zona|comuna_9|2026-10-28T21:32:38|

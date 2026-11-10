@@ -1,0 +1,13 @@
+R001|agua|agua|1800|litros|acopio_c1|comuna_1|2026-10-28T21:32:37
+R002|agua|agua|1500|litros|acopio_c5|comuna_5|2026-10-28T21:32:37
+R003|agua|agua|400|litros|AL02|comuna_5|2026-10-28T21:32:37
+R004|mercados|alimentos|800|raciones|acopio_c3|comuna_3|2026-10-28T21:32:37
+R005|mercados|alimentos|8|raciones|acopio_caimo|el_caimo|2026-10-28T21:32:37
+R006|analgesicos|medicamentos|300|cajas|acopio_c4|comuna_4|2026-10-28T21:32:37
+R007|antibioticos|medicamentos|6|cajas|salud_c5|comuna_5|2026-10-28T21:32:37
+R008|botiquines|primeros_auxilios|95|unidades|acopio_c7|comuna_7|2026-10-28T21:32:37
+R009|cobijas|refugio|500|unidades|AL01|comuna_3|2026-10-28T21:32:37
+R010|carpas|refugio|60|unidades|acopio_c9|comuna_9|2026-10-28T21:32:37
+R011|colchonetas|refugio|200|unidades|AL02|comuna_5|2026-10-28T21:32:37
+R012|kits de higiene|higiene|5|kits|acopio_c2|comuna_2|2026-10-28T21:32:37
+R013|linternas|herramientas|90|unidades|acopio_c7|comuna_7|2026-10-28T21:32:37

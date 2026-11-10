@@ -1,0 +1,64 @@
+# Flujo de ejemplo del enunciado (sección 1.4.10)
+# Ejecutar con:  mix consola demo/flujo_ejemplo.txt
+# Las líneas que empiezan con # son comentarios.
+
+# Laura se conecta como coordinadora de la zona centro (se registra automáticamente)
+connect laura 1234 coordinador centro "Laura Gómez"
+load_demo
+list_zones
+
+# Registra una necesidad crítica de 30 litros de agua para un punto de atención
+register_need agua 30 critica centro "Punto de atención sector 3"
+
+# El centro de acopio registra 50 litros disponibles
+register_resource R001 agua 50 litros centro_acopio_1
+
+# Otro pedido de 25 litros sobre el mismo recurso: solo cabe el primero
+register_need agua 25 alta sector_3 "Familias del sector 3"
+assign_resource N001 agua 30
+assign_resource N002 agua 25
+list_needs zona=centro prioridad=critica
+
+# El mismo conflicto, ahora con dos usuarios pidiendo AL MISMO TIEMPO
+simulate_conflict centro_acopio_1 50 30,25
+disconnect
+
+# Un ciudadano registra a Andrés como persona localizada en la zona norte
+connect pedro clave1 ciudadano zona_norte "Pedro Ruiz"
+report_person 1001 "Andrés Pérez" zona_norte localizada 34 perez
+# Un ciudadano no puede registrar ingresos a albergues (restricción por rol)
+register_entry A01 1001
+disconnect
+
+# Un voluntario registra el ingreso de Andrés al Albergue Norte
+connect juan clave3 voluntario zona_norte "Juan Torres"
+register_entry A01 1001
+register_entry A01 1001
+person_history 1001
+disconnect
+
+# Un familiar deja un mensaje para Andrés
+connect maria clave2 ciudadano centro "María Pérez"
+send_family_message 1001 "Estoy bien, estoy en el albergue norte"
+send_family_message familia:perez "Nos vemos en el Albergue Norte"
+list_family_messages 1001
+report_pet lost perro "Luna" negra mediana zona_norte 3001112233 "collar rojo, cola corta"
+disconnect
+
+# Un voluntario registra una mascota encontrada en la misma zona y el sistema calcula coincidencias
+connect juan clave3
+report_pet found perro desconocido negro mediano norte_1 3004445566 "collar rojo"
+match_pets
+confirm_match PET001 PET002
+confirm_match PET001 PET002
+disconnect
+
+# El coordinador consulta el resumen global (primero con una clave incorrecta)
+connect laura 9999
+connect laura 1234
+summary
+critical_resources
+zone_stats centro
+check_shelter A01
+activity
+disconnect

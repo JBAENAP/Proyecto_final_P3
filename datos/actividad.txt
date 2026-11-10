@@ -1,0 +1,107 @@
+2026-10-28T20:07:33|juanbaena|connect|{:error, {:identificador_invalido, :zona}}|error
+2026-10-28T21:24:03|juan|connect|registrado|ok
+2026-10-28T21:25:20|juan|disconnect|cliente finalizado|ok
+2026-10-28T21:32:37|laura|register_zone|comuna_1|ok
+2026-10-28T21:32:37|laura|register_zone|comuna_2|ok
+2026-10-28T21:32:37|laura|register_zone|comuna_3|ok
+2026-10-28T21:32:37|laura|register_zone|comuna_4|ok
+2026-10-28T21:32:37|laura|register_zone|comuna_5|ok
+2026-10-28T21:32:37|laura|register_zone|comuna_6|ok
+2026-10-28T21:32:37|laura|register_zone|comuna_7|ok
+2026-10-28T21:32:37|laura|register_zone|comuna_8|ok
+2026-10-28T21:32:37|laura|register_zone|comuna_9|ok
+2026-10-28T21:32:37|laura|register_zone|comuna_10|ok
+2026-10-28T21:32:37|laura|register_zone|el_caimo|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_1/comuna_1_norte|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_1/comuna_1_sur|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_2/comuna_2_norte|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_2/comuna_2_sur|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_3/comuna_3_norte|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_3/comuna_3_sur|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_4/comuna_4_norte|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_4/comuna_4_sur|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_5/comuna_5_norte|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_5/comuna_5_sur|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_6/comuna_6_norte|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_6/comuna_6_sur|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_7/comuna_7_norte|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_7/comuna_7_sur|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_8/comuna_8_norte|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_8/comuna_8_sur|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_9/comuna_9_norte|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_9/comuna_9_sur|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_10/comuna_10_norte|ok
+2026-10-28T21:32:37|laura|register_sector|comuna_10/comuna_10_sur|ok
+2026-10-28T21:32:37|laura|register_sector|el_caimo/caimo_centro|ok
+2026-10-28T21:32:37|laura|register_sector|el_caimo/caimo_veredas|ok
+2026-10-28T21:32:37|laura|register_point|comuna_1_norte/acopio_c1|ok
+2026-10-28T21:32:37|laura|register_point|comuna_1_sur/salud_c1|ok
+2026-10-28T21:32:37|laura|register_point|comuna_2_norte/acopio_c2|ok
+2026-10-28T21:32:37|laura|register_point|comuna_3_norte/acopio_c3|ok
+2026-10-28T21:32:37|laura|register_point|comuna_3_sur/atencion_c3|ok
+2026-10-28T21:32:37|laura|register_point|comuna_4_norte/acopio_c4|ok
+2026-10-28T21:32:37|laura|register_point|comuna_5_norte/acopio_c5|ok
+2026-10-28T21:32:37|laura|register_point|comuna_5_sur/salud_c5|ok
+2026-10-28T21:32:37|laura|register_point|comuna_6_norte/atencion_c6|ok
+2026-10-28T21:32:37|laura|register_point|comuna_7_norte/acopio_c7|ok
+2026-10-28T21:32:37|laura|register_point|comuna_8_sur/atencion_c8|ok
+2026-10-28T21:32:37|laura|register_point|comuna_9_norte/acopio_c9|ok
+2026-10-28T21:32:37|laura|register_point|comuna_10_sur/atencion_c10|ok
+2026-10-28T21:32:37|laura|register_point|caimo_centro/acopio_caimo|ok
+2026-10-28T21:32:37|laura|register_shelter|AL01|ok
+2026-10-28T21:32:37|laura|register_shelter|AL02|ok
+2026-10-28T21:32:37|laura|register_shelter|AL03|ok
+2026-10-28T21:32:37|laura|register_shelter|AL04|ok
+2026-10-28T21:32:37|laura|register_shelter|AL05|ok
+2026-10-28T21:32:37|laura|register_resource|R001 agua 2000|ok
+2026-10-28T21:32:37|laura|register_resource|R002 agua 1500|ok
+2026-10-28T21:32:37|laura|register_resource|R003 agua 400|ok
+2026-10-28T21:32:37|laura|register_resource|R004 mercados 800|ok
+2026-10-28T21:32:37|laura|register_resource|R005 mercados 8|ok
+2026-10-28T21:32:37|laura|register_resource|R006 analgesicos 300|ok
+2026-10-28T21:32:37|laura|register_resource|R007 antibioticos 6|ok
+2026-10-28T21:32:37|laura|register_resource|R008 botiquines 120|ok
+2026-10-28T21:32:37|laura|register_resource|R009 cobijas 500|ok
+2026-10-28T21:32:37|laura|register_resource|R010 carpas 60|ok
+2026-10-28T21:32:37|laura|register_resource|R011 colchonetas 200|ok
+2026-10-28T21:32:37|laura|register_resource|R012 kits de higiene 5|ok
+2026-10-28T21:32:37|laura|register_resource|R013 linternas 90|ok
+2026-10-28T21:32:37|andres|report_person|1094001001|ok
+2026-10-28T21:32:37|andres|report_person|1094001002|ok
+2026-10-28T21:32:37|andres|report_person|1094002001|ok
+2026-10-28T21:32:37|andres|report_person|1094002002|ok
+2026-10-28T21:32:37|andres|report_person|1094003001|ok
+2026-10-28T21:32:37|andres|report_person|1094004001|ok
+2026-10-28T21:32:37|andres|report_person|1094005001|ok
+2026-10-28T21:32:37|andres|report_person|1094005002|ok
+2026-10-28T21:32:37|andres|register_entry|AL01 1094001001|ok
+2026-10-28T21:32:37|andres|register_entry|AL02 1094002002|ok
+2026-10-28T21:32:37|pedro|register_need|agua 300 critica|ok
+2026-10-28T21:32:37|laura|assign_resource|N001 agua 200|ok
+2026-10-28T21:32:37|andres|register_need|medicamentos 40 critica|ok
+2026-10-28T21:32:37|laura|register_need|rescate 1 critica|ok
+2026-10-28T21:32:37|andres|register_need|alimentos 150 alta|ok
+2026-10-28T21:32:37|pedro|register_need|refugio 80 alta|ok
+2026-10-28T21:32:38|laura|register_need|primeros_auxilios 25 alta|ok
+2026-10-28T21:32:38|laura|assign_resource|N006 primeros_auxilios 25|ok
+2026-10-28T21:32:38|laura|attend_need|N006|ok
+2026-10-28T21:32:38|laura|close_need|N006|ok
+2026-10-28T21:32:38|pedro|register_need|alimentos 60 media|ok
+2026-10-28T21:32:38|laura|register_need|transporte 3 media|ok
+2026-10-28T21:32:38|andres|register_need|agua 50 baja|ok
+2026-10-28T21:32:38|laura|cancel_need|N009|ok
+2026-10-28T21:32:38|pedro|send_family_message|1094001002|ok
+2026-10-28T21:32:38|andres|send_family_message|familia:giraldo|ok
+2026-10-28T21:32:38|andres|mark_message|M002 entregado|ok
+2026-10-28T21:32:38|pedro|send_family_message|1094002001|ok
+2026-10-28T21:32:38|laura|send_family_message|familia:henao|ok
+2026-10-28T21:32:38|andres|mark_message|M004 entregado|ok
+2026-10-28T21:32:38|pedro|report_pet|lost perro|ok
+2026-10-28T21:32:38|andres|report_pet|found perro|ok
+2026-10-28T21:32:38|pedro|report_pet|lost gato|ok
+2026-10-28T21:32:38|andres|report_pet|found gato|ok
+2026-10-28T21:32:38|laura|report_pet|lost perro|ok
+2026-10-28T21:33:34|sofia|connect|autenticado|ok
+2026-10-28T21:33:34|sofia|disconnect|cliente finalizado|ok
+2026-11-03T15:29:48|sofia|connect|autenticado|ok
+2026-11-03T15:30:23|santi|connect|registrado|ok

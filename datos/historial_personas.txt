@@ -1,0 +1,10 @@
+1094001001|2026-10-28T21:32:37||localizada|andres|registro inicial
+1094001002|2026-10-28T21:32:37||sin_informacion|andres|registro inicial
+1094002001|2026-10-28T21:32:37||reportada|andres|registro inicial
+1094002002|2026-10-28T21:32:37||localizada|andres|registro inicial
+1094003001|2026-10-28T21:32:37||trasladada|andres|registro inicial
+1094004001|2026-10-28T21:32:37||localizada|andres|registro inicial
+1094005001|2026-10-28T21:32:37||reportada|andres|registro inicial
+1094005002|2026-10-28T21:32:37||reunificada|andres|registro inicial
+1094001001|2026-10-28T21:32:37|localizada|en_albergue|andres|ingreso a AL01
+1094002002|2026-10-28T21:32:37|localizada|en_albergue|andres|ingreso a AL02

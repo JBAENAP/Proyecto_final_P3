@@ -1,0 +1,8 @@
+P001|1094001001|María Fernanda Osorio|34|comuna_3|en_albergue|osorio|2026-10-28T21:32:37
+P002|1094001002|Juan David Osorio|9|comuna_3|sin_informacion|osorio|2026-10-28T21:32:37
+P003|1094002001|Carlos Arturo Giraldo|67|comuna_5|reportada|giraldo|2026-10-28T21:32:37
+P004|1094002002|Luz Marina Giraldo|63|comuna_5|en_albergue|giraldo|2026-10-28T21:32:37
+P005|1094003001|Andrés Felipe Restrepo|45|comuna_1|trasladada|restrepo|2026-10-28T21:32:37
+P006|1094004001|Paula Andrea Cardona|28|el_caimo|localizada|cardona|2026-10-28T21:32:37
+P007|1094005001|Jorge Iván Henao|52|comuna_7|reportada|henao|2026-10-28T21:32:37
+P008|1094005002|Valentina Henao|17|comuna_7|reunificada|henao|2026-10-28T21:32:37
